@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+###  Hola mundo 
+:)
+Mi nombre es flor  actualmente trabajo en una financiera 
+soy economista de profesion 
+me gusta la naturae
+actualemte estoy aprendien  sobre el mundo de la programación 
